@@ -1,0 +1,30 @@
+.App {
+  margin: 0 20px 0 20px;
+}
+.search-input-section {
+  width: 90%;
+}
+
+.search-input-section input {
+  width: 100%;
+  outline: none;
+  height: 41px;
+}
+
+.serach-icon {
+  padding: 0px 20px 0 10px;
+}
+
+.close-icon {
+  padding: 0px 20px 0 10px;
+}
+
+.search-section {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  color: rgb(22, 22, 22);
+  background-color: white;
+  justify-content: space-between;
+  border: 1px solid rgb(70, 70, 70);
+}
