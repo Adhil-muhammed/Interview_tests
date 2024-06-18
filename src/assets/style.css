@@ -4,6 +4,7 @@
 
 .search-section {
   width: 100%;
+  margin-top: 10px;
   display: flex;
   align-items: center;
   color: rgb(22, 22, 22);
@@ -12,10 +13,18 @@
   border: 1px solid rgb(70, 70, 70);
 }
 
+.borderRadius-2 {
+  border-radius: 40px;
+}
+
 .search-input-section {
   width: 90%;
 }
 
+.image-label {
+  margin-right: 20px;
+  padding-left: 20px;
+}
 .search-input-section input {
   width: 100%;
   outline: none;
